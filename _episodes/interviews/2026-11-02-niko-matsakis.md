@@ -1,7 +1,7 @@
 ---
 title: "AI-assisted development with Niko Matsakis"
-date: 2026-10-22T00:00:00Z
-file: https://audio.rustacean-station.org/file/rustacean-station/2026-10-22-niko-matsakis.mp3
+date: 2026-11-02T09:00:00Z
+file: https://audio.rustacean-station.org/file/rustacean-station/2026-11-02-niko-matsakis-ai.mp3
 duration: "48:22"
 length: "46430637"
 #reddit: (leave blank on initial publish, amend with link and uncomment this line after Reddit thread has been posted)
